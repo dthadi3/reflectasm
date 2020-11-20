@@ -1,5 +1,9 @@
 language: java
 
+arch:
+  - AMD64
+  - ppc64le
+
 jdk:
   - openjdk7
   - oraclejdk8
