@@ -5,8 +5,8 @@ arch:
   - ppc64le
 
 jdk:
-  - openjdk7
-  - oraclejdk8
+  - openjdk10
+  - oraclejdk11
 
 cache:
   directories:
